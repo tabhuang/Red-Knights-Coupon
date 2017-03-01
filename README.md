@@ -1,4 +1,4 @@
-#天堂Red Knights序號登錄
+#天堂Red Knights序號自動登錄
 #程式介紹
 
 1. 範例圖片<br/>
